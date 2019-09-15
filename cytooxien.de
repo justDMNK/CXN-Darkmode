@@ -162,3 +162,6 @@ element.style {
 .recentNews .details {
     color: rgb(255, 255, 255);
 }
+.recentNews .messageContent img {
+    margin-top: 2px;
+}
