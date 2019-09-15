@@ -1,8 +1,10 @@
 input {
-    background: rgb(165,174,167);
+    background-color: rgb(44, 45, 44);
+    color: lightgrey;
 }
 textarea {
-    background: rgb(165,174,167);
+    background-color: rgb(44, 45, 44);
+    color: lightgrey;
 }
 #content {
     background-color: rgb(37, 37, 37);
@@ -164,4 +166,18 @@ element.style {
 }
 .recentNews .messageContent img {
     margin-top: 2px;
+}
+.textCtrl {
+    color: lightgrey;
+}
+#StackAlerts .stackAlertContent {
+    background-color: rgb(44, 45, 44);
+    color: lightgrey;
+}
+.messageSimpleList .placeholder .placeholderContent {
+    background-color: rgb(37, 37, 37);
+    color: rgb(195, 195, 195);
+}
+.tabs {
+    background-color: rgb(37, 37, 37);
 }
