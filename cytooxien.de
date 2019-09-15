@@ -181,3 +181,6 @@ element.style {
 .tabs {
     background-color: rgb(37, 37, 37);
 }
+#userBar {
+    background-color: rgb(37, 37, 37);
+}
