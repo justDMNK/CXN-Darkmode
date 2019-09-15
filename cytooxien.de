@@ -11,7 +11,6 @@ input {
 .sidebar
 .secondaryContent {
     background-color: rgb(37, 37, 37);
-    padding: 12px;
 }
 #headerMover
 #headerProxy{
@@ -144,4 +143,17 @@ body {
 }
 #QuickSearch {
     background-color: rgb(37, 37, 37);
+}
+.searchResult .snippet a {
+    color: rgb(236, 236, 236);
+}
+.primaryContent a {
+    color: rgb(255, 255, 255);
+}
+.searchResult .meta a {
+    color: rgb(179, 179, 179);
+}
+element.style {
+    background-color: rgb(47, 47, 47);
+
 }
