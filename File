@@ -1,0 +1,139 @@
+#Stats .marioparty .background {
+    background: url(https://www.bilder-upload.eu/upload/e91d2b-1568404914.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#content {
+    background-color: rgb(37, 37, 37);
+}
+.nodeList .categoryForumNodeInfo, .nodeList .forumNodeInfo, .nodeList .pageNodeInfo, .nodeList .linkNodeInfo {
+    color: rgb(210,215,211);
+    background-color: rgb(37, 37, 37);
+}
+.sidebar
+.secondaryContent {
+    background-color: rgb(37, 37, 37);
+    padding: 12px;
+}
+#headerMover
+#headerProxy{
+    background-color: rgb(37, 37, 37);
+}
+.secondaryContent {
+    background-color: rgb(37, 37, 37);
+}
+#taigachat_box {
+    background-color: rgb(37, 37, 37);
+    color: rgb(210,215,211);
+}
+#taigachat_box li {
+    background-color: rgb(37, 37, 37);
+    color: rgb(210,215,211);
+}
+.ugc a:link, .ugc a:visited{
+    color: rgb(49, 108, 152);
+}
+#taigachat_message{
+     background-color: rgb(37, 37, 37);
+}
+.nodeList .categoryStrip .nodeTitle a, .nodeList .categoryStrip .nodeTitle a:hover {
+    color: rgb(222, 222, 222);
+}
+.node .nodeText .nodeTitle a {
+    color: rgb(195, 195, 195);
+}
+.sidebar .section .primaryContent h3 a, .sidebar .section .secondaryContent h3 a {
+    color: rgb(195, 195, 195);
+}
+.sidebar .section .primaryContent h3, .sidebar .section .secondaryContent h3, .profilePage .mast .section.infoBlock h3 {
+    color: rgb(195, 195, 195);
+}
+.sidebar .section .secondaryContent .minorHeading a {
+    color: rgb(117, 149, 202);
+}
+.sidebar .section .secondaryContent .footnote, .sidebar .section .secondaryContent .minorHeading {
+    color: rgb(117, 149, 202);
+}
+body {
+    color: rgb(195, 195, 195);
+}
+.node .nodeIcon {
+    color: rgb(236, 236, 236);
+}
+.sectionMain {
+    background-color: rgb(37, 37, 37);
+}
+.primaryContent {
+    background-color: rgb(37, 37, 37);
+}
+#newsText{
+    color: rgb(117, 149, 202);
+}
+#Support .title {
+    background-color: rgb(37, 37, 37);
+}
+#Support .secondaryContent {
+    background-color: rgb(37, 37, 37);
+}
+#Support .secondaryContent .description {
+    color: rgb(210,215,211);
+}
+#Support .secondaryContent .description b {
+    color: rgb(125, 125, 125);
+}
+#Stats .secondaryContent {
+    background-color: rgb(37, 37, 37);
+}
+#Stats .marioparty .background {
+    background: url(https://www.bilder-upload.eu/upload/e91d2b-1568404914.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.NoSidebar #content .pageContent {
+    background-color: rgb(37, 37, 37);
+}
+.messageUserBlock {
+    background-color: rgb(37, 37, 37);
+}
+.messageUserBlock .extraUserInfo {
+    background-color: rgb(37, 37, 37);
+}
+#recentNews .subHeading a {
+    color: rgb(236, 236, 236);
+}
+.Menu .primaryContent {
+    background-color: rgb(37, 37, 37);
+}
+.Menu .secondaryContent {
+    background-color: rgb(37, 37, 37);
+}
+.mainContainer {
+    background-color: rgb(37, 37, 37);
+}
+.Sidebar #content .mainContent {
+    background-color: rgb(37, 37, 37);
+}
+.messageUserBlock div.avatarHolder {
+    background-color: rgb(37, 37, 37);
+}
+.breadBoxTop, .breadBoxBottom {
+    background-color: rgb(37, 37, 37);
+}
+.breadcrumb .crust a.crumb {
+    color: rgb(236, 236, 236);
+}
+.redactor_box {
+    background-color: rgb(37, 37, 37);
+}
+.redactor_toolbar {
+    background-color: rgb(37, 37, 37);
+}
+.discussionListItems li.discussionListItem:nth-of-type(2n+1) {
+    background: #252525;
+}
+.discussionListItem {
+    background-color: rgb(47, 47, 47);
+}
+.timeline-Widget {
+    background-color: rgb(37, 37, 37);
+}
