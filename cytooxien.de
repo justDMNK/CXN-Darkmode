@@ -1,7 +1,5 @@
-#Stats .marioparty .background {
-    background: url(https://www.bilder-upload.eu/upload/e91d2b-1568404914.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+input {
+    background: rgb(165,174,167);
 }
 #content {
     background-color: rgb(37, 37, 37);
@@ -84,11 +82,6 @@ body {
 #Stats .secondaryContent {
     background-color: rgb(37, 37, 37);
 }
-#Stats .marioparty .background {
-    background: url(https://www.bilder-upload.eu/upload/e91d2b-1568404914.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 .NoSidebar #content .pageContent {
     background-color: rgb(37, 37, 37);
 }
@@ -135,5 +128,20 @@ body {
     background-color: rgb(47, 47, 47);
 }
 .timeline-Widget {
+    background-color: rgb(37, 37, 37);
+}
+.profilePage .tabs.mainTabs {
+    background-color: rgb(37, 37, 37);
+}
+.tabs li a, .tabs.noLinks li {
+    color: rgb(236, 236, 236);
+}
+.textHeading, .xenForm .sectionHeader {
+    color: rgb(236, 236, 236);
+}
+.hasJs .bbCodeSpoilerText {
+    background-color: transparent;
+}
+#QuickSearch {
     background-color: rgb(37, 37, 37);
 }
