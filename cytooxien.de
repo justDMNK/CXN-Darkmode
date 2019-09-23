@@ -184,3 +184,24 @@ element.style {
 #userBar {
     background-color: rgb(37, 37, 37);
 }
+select {
+    background-color: rgb(37, 37, 37);
+}
+.button.primary {
+    background-color: rgb(44, 45, 44);
+}
+.button.primary:hover {
+    background-color: rgb(74, 74, 74);
+    color: #fff;
+}
+.navPopup .PopupItemLinkActive:hover {
+    background-color: rgb(74, 74, 74);
+    color: #fff;
+}
+.blendedEditor .redactor_box .redactor_btn_group ul, .blendedEditor .redactor_box iframe, .blendedEditor .redactor_box .redactor_smilies li {
+    opacity: 0.9;
+}
+.chooserColumns li a:hover {
+    background-color: rgb(74, 74, 74);
+    color: #fff;
+}
