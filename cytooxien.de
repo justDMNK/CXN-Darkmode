@@ -188,10 +188,10 @@ select {
     background-color: rgb(37, 37, 37);
 }
 .button.primary {
-    background-color: rgb(44, 45, 44);
+    background-color: rgb(47, 47, 47);
 }
 .button.primary:hover {
-    background-color: rgb(74, 74, 74);
+    background-color: rgb(77, 77, 77);
     color: #fff;
 }
 .navPopup .PopupItemLinkActive:hover {
@@ -215,4 +215,16 @@ a.callToAction span:hover {
 }
 .messageList .placeholder .placeholderContent {
     color: rgb(195, 195, 195);
+}
+.button {
+    background-color: rgb(47, 47, 47);
+}
+input.textCtrl.disabled, textarea.textCtrl.disabled, .disabled .textCtrl {
+    background-color: rgb(37, 37, 37);
+}
+input.button.disabled{
+    background-color: rgb(37, 37, 37);
+}
+.pollBlock .question .questionText {
+    color: rgb(57, 91, 146);
 }
