@@ -128,9 +128,6 @@ body {
 .discussionListItems li.discussionListItem:nth-of-type(2n+1) {
     background: #252525;
 }
-.discussionListItem {
-    background-color: rgb(47, 47, 47);
-}
 .timeline-Widget {
     background-color: rgb(37, 37, 37);
 }
@@ -227,4 +224,10 @@ input.button.disabled{
 }
 .pollBlock .question .questionText {
     color: rgb(57, 91, 146);
+}
+.messageSimple .comment.deleted .commentContent {
+    color: rgb(195, 195, 195);
+}
+.navigationSideBar .heading{
+    background-color: rgb(69, 69, 69);
 }
