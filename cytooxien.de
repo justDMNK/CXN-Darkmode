@@ -231,3 +231,6 @@ input.button.disabled{
 .navigationSideBar .heading{
     background-color: rgb(69, 69, 69);
 }
+.discussionListItem {
+    background-color: rgb(47, 47, 47);
+}
